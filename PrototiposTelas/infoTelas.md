@@ -17,14 +17,12 @@
 
 ### Jogador
 
-7. Inserir Codigo de sala
-
-8. Escolher resposta
+7. Escolher resposta
 
 ### Host
 
-9. Escolher quiz
+8. Escolher quiz
 
 ### Administrador
 
-10. Criar quiz
+9. Criar quiz
